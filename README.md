@@ -1,4 +1,4 @@
-# Agenda Nusantara 📝
+# Agenda Nusantara
 
 **Agenda Nusantara** adalah aplikasi manajemen tugas (*to-do list*) berbasis mobile yang dirancang untuk membantu pengguna mengorganisir produktivitas harian secara efisien. Aplikasi ini dikembangkan sebagai bagian dari **Soal Tes Observasi SERTIKOM BNSP DIPA 2026** untuk skema **Pemrograman Aplikasi Mobile Berbasis Database**.
 
@@ -6,7 +6,7 @@ Aplikasi ini mengutamakan kemandirian data dengan menggunakan **SQLite** sebagai
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 * **Sistem Autentikasi:** Login aman untuk menjaga privasi data tugas.
 * **Manajemen Tugas Terstruktur:** Memisahkan tugas berdasarkan kategori **Penting** dan **Biasa**.
@@ -17,7 +17,7 @@ Aplikasi ini mengutamakan kemandirian data dengan menggunakan **SQLite** sebagai
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **Bahasa Pemrograman:** Java/Kotlin (Android SDK)
 * **Database:** SQLite
@@ -25,19 +25,19 @@ Aplikasi ini mengutamakan kemandirian data dengan menggunakan **SQLite** sebagai
 
 ---
 
-## 📸 Cuplikan Layar (Preview)
+## Cuplikan Layar (Preview)
 
 | Halaman Login | Halaman Beranda | Daftar Tugas |
 |---|---|---|
-| ![Login](login.png) | ![Beranda](beranda.png) | ![Daftar](daftar%20tugas.png) |
+| ![Login](login.jpeg) | ![Beranda](beranda.jpeg) | ![Daftar](list.jpeg) |
 
 | Tambah Tugas Penting | Tambah Tugas Biasa | Pengaturan |
 |---|---|---|
-| ![Penting](penting.png) | ![Biasa](biasa.png) | ![Pengaturan](pengaturan.png) |
+| ![Penting](penting.jpeg) | ![Biasa](biasa.jpeg) | ![Pengaturan](setting.jpeg) |
 
 ---
 
-## 📁 Struktur Database
+## Struktur Database
 
 Aplikasi menggunakan SQLite dengan tabel utama untuk menyimpan data tugas yang mencakup kolom:
 * `id` (Primary Key)
@@ -49,12 +49,12 @@ Aplikasi menggunakan SQLite dengan tabel utama untuk menyimpan data tugas yang m
 
 ---
 
-## 👨‍💻 Informasi Pengembang
+## Informasi Pengembang
 
 Aplikasi ini dikembangkan oleh:
-* **Nama:** [Isi Nama Anda]
-* **NIM:** [Isi NIM Anda]
-* **Instansi:** [Isi Nama Kampus/Sekolah]
+* **Nama:** Putri Nadhiyah Salsabila
+* **NIM:** 254107027012
+* **Instansi:** Politeknik Negeri Malang
 
 ---
 *Proyek ini dibuat untuk memenuhi persyaratan Sertifikasi Kompetensi BNSP 2026.*
